@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/facebookapp_clone.dart'
 class FacebookHomePage extends StatefulWidget {
   @override
   _FacebookHomePageState createState() => _FacebookHomePageState();
